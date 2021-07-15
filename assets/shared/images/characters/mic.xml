@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mic.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Death0000" x="0" y="0" width="287" height="425"/>
+	<SubTexture name="Down0000" x="287" y="0" width="372" height="471"/>
+	<SubTexture name="Idle0000" x="659" y="0" width="465" height="474"/>
+	<SubTexture name="Idle0001" x="659" y="0" width="465" height="474"/>
+	<SubTexture name="Idle0002" x="659" y="0" width="465" height="474"/>
+	<SubTexture name="Idle0003" x="659" y="0" width="465" height="474"/>
+	<SubTexture name="Left0000" x="1124" y="0" width="449" height="513"/>
+	<SubTexture name="Lol0000" x="1573" y="0" width="291" height="408"/>
+	<SubTexture name="Right0000" x="0" y="513" width="664" height="263"/>
+	<SubTexture name="Up0000" x="664" y="513" width="183" height="522"/>
+</TextureAtlas>
